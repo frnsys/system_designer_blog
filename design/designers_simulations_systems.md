@@ -2,21 +2,26 @@
 published_at: 09.14.2016 16:30
 ---
 
-# SYD should be built to:
+# The world is wicked
 
-### invite collaboration
+> We [as designers] face the difficulties of untangling messes (taming wicked problems) and fostering innovation (economic and social), which require understanding systems — which are complex, dynamic, and probabilistic—and “hidden” or “translucent”.
 
-### be accessible on the web
+Hugh Dubberly makes the urgency for systems thinking in the field of design quite obvious in his 2015 essay, [A Systems Literacy Manifesto](http://www.dubberly.com/articles/a-systems-literacy-manifesto.html). 
 
-### paint a macro and micro picture
+## Our tool, System Designer, hopes to provide a way to make some of the ideas around the power and importance of systems, computer science, and cybernetics accessible to those in creative fields.
 
-### be structured in a modular and multiscale way.
+Design-school training is lacking, few of us leave our prestigious academies with any idea about the kinds of complex issues interlocked between politics, business, technology, and human and social behavior. As governments are realising the power of cultural capital and looking to [artists and activists to bridge gaps between their policy and audience](http://www.artnews.com/2015/07/13/tania-bruguera-to-be-first-artist-in-residence-for-new-york-city-mayors-office-of-immigrant-affairs/), and [startups are becoming lobbyists](http://www.nytimes.com/2015/11/23/technology/start-up-leaders-embrace-lobbying-as-part-of-the-job.html), it becomes even more imperative that we, as participants with power in this system, need better understanding of how we're contributing.
 
-[Read more about SYD specs](https://github.com/frnsys/system_designer/tree/master/doc/spec)
+We're doing a series of writing around the designer's role in tackling and facing some of these issues, and will be adding interactive elements with live code in the coming months.
 
+## &#x1f4d6; #1 | [Designers, systems thinking, and simulations](https://medium.com/@binaricorn/designers-systems-thinking-and-simulations-6ac863839634#.vbb7yc1r6)
+Our manifesto of sorts explaining why we are building SYD, and why it's important.
 
+![](https://cdn-images-1.medium.com/max/800/1*Jufpw84ydcc4VtfGP6UbSw.jpeg)
 
-To simulate and speculate is to be preemptive about designing for better and more anticipative visions of the future. To plan is to design. But as we can see with these wicked problems, oftentimes plans are short-sighted, reactionary, and ultimately result in vicious cycles instead of virtuous ones. Design-school training is lacking, few of us leave our prestigious academies with any idea about the kinds of complex issues interlocked between politics, business, technology, and human and social behavior. The industry is just beginning to encourage dialogue between professionals and the communities they are trying to serve. We must task ourselves to create our own tools for introspection and less extractive enterprises, and reinvest resources back into improving the system. 
+## &#x1f4d6; #2 | Dummy / speed version of a systems science course (Coming November)
+A primer and glossary on some of the concepts and terminology you'll need to grasp in order to work with SYD.
 
-[- Designers, systems thinking, and simulations](https://medium.com/@binaricorn/designers-systems-thinking-and-simulations-6ac863839634#.vbb7yc1r6)
+![](http://www.pangaro.com/syllabi/Intro-Systems-Figure-v2.gif)
 
+## For more in-depth reading of social simulation, check out the posts below ---------->
