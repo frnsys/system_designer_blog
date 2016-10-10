@@ -8,7 +8,7 @@ published_at: 09.14.2016 16:30
 
 Hugh Dubberly makes the urgency for systems thinking in the field of design quite obvious in his 2015 essay, [A Systems Literacy Manifesto](http://www.dubberly.com/articles/a-systems-literacy-manifesto.html). 
 
-## Our tool, System Designer, hopes to provide a way to make some of the ideas around the power and importance of systems, computer science, and cybernetics accessible to those in creative fields.
+## With System Designer, we are creating a systems literacy toolkit (writing and design exercises) around our simulation framework (agent-based modeling for social simulations) in order to provide a better decision-making tool for socially and civically engaged organizations.
 
 Design-school training is lacking, few of us leave our prestigious academies with any idea about the kinds of complex issues interlocked between politics, business, technology, and human and social behavior. As governments are realising the power of cultural capital and looking to [artists and activists to bridge gaps between their policy and audience](http://www.artnews.com/2015/07/13/tania-bruguera-to-be-first-artist-in-residence-for-new-york-city-mayors-office-of-immigrant-affairs/), and [startups are becoming lobbyists](http://www.nytimes.com/2015/11/23/technology/start-up-leaders-embrace-lobbying-as-part-of-the-job.html), it becomes even more imperative that we, as participants with power in this system, need better understanding of how we're contributing.
 
